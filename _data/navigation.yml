@@ -21,7 +21,7 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url: https://daneshmorales.github.io/files/CV.pdf
+    url: /files/CV.pdf
     
   - title: "Guide"
     url: /markdown/
